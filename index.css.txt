@@ -1,0 +1,2 @@
+Styles for header
+Styles for footer
