@@ -1,3 +1,4 @@
 Styles for header
 Styles for footer
 New Style added to the previous file
+This is another requirement for standards setting
